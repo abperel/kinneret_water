@@ -44,5 +44,4 @@ df_kinneret_cl_average = df_kinneret_cl.groupby(
 fig = px.line(df_kinneret_cl, x="Survey_Date",
               y="Kinneret Cl Level", title='Kinneret Cl Level')
 #sns.lineplot(x=df_kinneret_cl["Survey_Date"], y=df_kinneret_cl.loc[:,"Kinneret Cl Level"])
-#st.pyplot(fig)
-fig.show()
+st.write(fig)
