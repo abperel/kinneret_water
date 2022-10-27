@@ -1,2 +1,2 @@
 # kinneret_water
-water level vs cl analysis
+water level vs cl level analysis
