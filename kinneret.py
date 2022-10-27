@@ -121,4 +121,4 @@ st.write(pearsonr(merged_df.loc[:, 'Kinneret_Level'],
 st.text('From here it can be seen that there is an inverse correlation between the level\nof water and Cl')
 
 print(' ')
-st.markdown('**Acknowledgements:** The data is obtained with an API call from the Israeli government database site https://info.data.gov.il/')
+st.markdown('**Acknowledgements:** The data is obtained with an API call from the Israeli government database site: https://info.data.gov.il/')
